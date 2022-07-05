@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+Mohamed+Hassan)](https://git.io/typing-svg)
 
 - 👀 I'm Interested in Web Developement, Back-End Developement
 - 🔭 I’m currently working on CS50 Web Programming
